@@ -1,6 +1,12 @@
+# Langchain
 langchain
 langchain_community
 langchain-openrouter
 langchain-groq
 python-dotenv
 langchain-google-genai
+
+
+# Langgraph
+Langgraph
+langsmith
